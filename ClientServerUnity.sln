@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientUnity", "ClientUnity\ClientUnity.csproj", "{CC8F89CB-8A4E-4770-AC42-8651B4247546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtocolShared", "ProtocolShared\ProtocolShared.csproj", "{57A9A0E8-6CA2-43A6-AB77-8EF484AF2B86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerUnity", "ServerUnity\ServerUnity.csproj", "{DE3E4A6F-976D-4E09-8D55-93C5465E5332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC8F89CB-8A4E-4770-AC42-8651B4247546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8F89CB-8A4E-4770-AC42-8651B4247546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8F89CB-8A4E-4770-AC42-8651B4247546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8F89CB-8A4E-4770-AC42-8651B4247546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A9A0E8-6CA2-43A6-AB77-8EF484AF2B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A9A0E8-6CA2-43A6-AB77-8EF484AF2B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A9A0E8-6CA2-43A6-AB77-8EF484AF2B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A9A0E8-6CA2-43A6-AB77-8EF484AF2B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3E4A6F-976D-4E09-8D55-93C5465E5332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3E4A6F-976D-4E09-8D55-93C5465E5332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3E4A6F-976D-4E09-8D55-93C5465E5332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3E4A6F-976D-4E09-8D55-93C5465E5332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
